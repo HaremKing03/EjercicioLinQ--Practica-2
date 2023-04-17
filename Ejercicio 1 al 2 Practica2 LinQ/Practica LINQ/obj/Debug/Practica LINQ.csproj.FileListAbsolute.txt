@@ -1,0 +1,8 @@
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\bin\Debug\Practica LINQ.exe.config
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\bin\Debug\Practica LINQ.exe
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\bin\Debug\Practica LINQ.pdb
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\obj\Debug\Practica LINQ.csproj.AssemblyReference.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\obj\Debug\Practica LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\obj\Debug\Practica LINQ.csproj.CoreCompileInputs.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\obj\Debug\Practica LINQ.exe
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Practica LINQ\Practica LINQ\obj\Debug\Practica LINQ.pdb

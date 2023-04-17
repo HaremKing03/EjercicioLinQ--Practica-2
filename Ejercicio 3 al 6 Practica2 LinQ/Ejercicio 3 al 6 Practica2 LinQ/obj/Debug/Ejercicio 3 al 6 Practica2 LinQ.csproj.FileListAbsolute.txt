@@ -1,0 +1,8 @@
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\bin\Debug\Ejercicio 3 al 6 Practica2 LinQ.exe.config
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\bin\Debug\Ejercicio 3 al 6 Practica2 LinQ.exe
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\bin\Debug\Ejercicio 3 al 6 Practica2 LinQ.pdb
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\obj\Debug\Ejercicio 3 al 6 Practica2 LinQ.csproj.AssemblyReference.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\obj\Debug\Ejercicio 3 al 6 Practica2 LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\obj\Debug\Ejercicio 3 al 6 Practica2 LinQ.csproj.CoreCompileInputs.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\obj\Debug\Ejercicio 3 al 6 Practica2 LinQ.exe
+C:\Users\morei\OneDrive\Escritorio\Programacion 3\Ejercicios\Ejercicio 3 al 6 Practica2 LinQ\Ejercicio 3 al 6 Practica2 LinQ\obj\Debug\Ejercicio 3 al 6 Practica2 LinQ.pdb
